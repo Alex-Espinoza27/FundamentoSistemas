@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Empleado">
+    <Key>
+      <PropertyRef Name="Codigo_empleado" />
+    </Key>
+    <Property Name="Codigo_empleado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DNI" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="date" Nullable="false" />
+    <Property Name="FechaContratacion" Type="date" Nullable="false" />
+    <Property Name="Salario" Type="money" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Empleos">
+    <Key>
+      <PropertyRef Name="Codigo_empleo" />
+    </Key>
+    <Property Name="Codigo_empleo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreEmpleo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SalarioMinimo" Type="money" Nullable="false" />
+    <Property Name="SalarioMaximo" Type="money" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HistorialEmpleos">
+    <Key>
+      <PropertyRef Name="Codigo_empleo" />
+      <PropertyRef Name="Codigo_empleado" />
+    </Key>
+    <Property Name="Codigo_empleo" Type="int" Nullable="false" />
+    <Property Name="Codigo_empleado" Type="int" Nullable="false" />
+    <Property Name="FechaInicio" Type="date" Nullable="false" />
+    <Property Name="FechaFIN" Type="date" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Historial__Codig__46E78A0C">
+    <End Role="Empleos" Type="Self.Empleos" Multiplicity="1" />
+    <End Role="HistorialEmpleos" Type="Self.HistorialEmpleos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleos">
+        <PropertyRef Name="Codigo_empleo" />
+      </Principal>
+      <Dependent Role="HistorialEmpleos">
+        <PropertyRef Name="Codigo_empleo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Historial__Codig__47DBAE45">
+    <End Role="Empleado" Type="Self.Empleado" Multiplicity="1" />
+    <End Role="HistorialEmpleos" Type="Self.HistorialEmpleos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empleado">
+        <PropertyRef Name="Codigo_empleado" />
+      </Principal>
+      <Dependent Role="HistorialEmpleos">
+        <PropertyRef Name="Codigo_empleado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelEFStoreContainer">
+    <EntitySet Name="Empleado" EntityType="Self.Empleado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Empleos" EntityType="Self.Empleos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HistorialEmpleos" EntityType="Self.HistorialEmpleos" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Historial__Codig__46E78A0C" Association="Self.FK__Historial__Codig__46E78A0C">
+      <End Role="Empleos" EntitySet="Empleos" />
+      <End Role="HistorialEmpleos" EntitySet="HistorialEmpleos" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Historial__Codig__47DBAE45" Association="Self.FK__Historial__Codig__47DBAE45">
+      <End Role="Empleado" EntitySet="Empleado" />
+      <End Role="HistorialEmpleos" EntitySet="HistorialEmpleos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

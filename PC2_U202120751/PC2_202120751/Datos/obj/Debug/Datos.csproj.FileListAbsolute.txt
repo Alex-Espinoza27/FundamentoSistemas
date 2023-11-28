@@ -1,0 +1,36 @@
+D:\C#\Semana13\Lab17\Datos\bin\Debug\Datos.dll.config
+D:\C#\Semana13\Lab17\Datos\bin\Debug\Datos.dll
+D:\C#\Semana13\Lab17\Datos\bin\Debug\Datos.pdb
+D:\C#\Semana13\Lab17\Datos\bin\Debug\EntityFramework.dll
+D:\C#\Semana13\Lab17\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Semana13\Lab17\Datos\bin\Debug\EntityFramework.xml
+D:\C#\Semana13\Lab17\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Semana13\Lab17\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\C#\Semana13\Lab17\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\C#\Semana13\Lab17\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\C#\Semana13\Lab17\Datos\obj\Debug\Datos.dll
+D:\C#\Semana13\Lab17\Datos\obj\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\Datos.dll.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\EntityFramework.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\EntityFramework.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\obj\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Datos\obj\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\Datos.dll.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\EntityFramework.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\EntityFramework.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\obj\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Datos\obj\Debug\Datos.pdb

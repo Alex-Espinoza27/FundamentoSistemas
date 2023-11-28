@@ -1,0 +1,36 @@
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\Negocio.dll
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\Negocio.pdb
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\Datos.dll
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\EntityFramework.dll
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\Datos.pdb
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\Datos.dll.config
+D:\C#\Semana13\Lab17\Negocio\bin\Debug\EntityFramework.xml
+D:\C#\Semana13\Lab17\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\C#\Semana13\Lab17\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\C#\Semana13\Lab17\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\C#\Semana13\Lab17\Negocio\obj\Debug\Negocio.dll
+D:\C#\Semana13\Lab17\Negocio\obj\Debug\Negocio.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\obj\Debug\Negocio.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\obj\Debug\Negocio.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\Negocio.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\Negocio.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\EntityFramework.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\Datos.dll.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\bin\Debug\EntityFramework.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\Negocio.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\Negocio.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\EntityFramework.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\Datos.dll.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\bin\Debug\EntityFramework.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\obj\Debug\Negocio.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Negocio\obj\Debug\Negocio.pdb

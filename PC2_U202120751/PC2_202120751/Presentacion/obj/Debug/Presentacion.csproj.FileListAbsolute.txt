@@ -1,0 +1,93 @@
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Presentacion.exe.config
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Presentacion.exe
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Presentacion.pdb
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Datos.dll
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\EntityFramework.dll
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Negocio.dll
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Datos.pdb
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Datos.dll.config
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\Negocio.pdb
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\EntityFramework.xml
+D:\C#\Semana13\Lab17\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\CursoWindow.g.cs
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\DocenteWindow.g.cs
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\MainWindow.g.cs
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\App.g.cs
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\CursoWindow.baml
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\DocenteWindow.baml
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\MainWindow.baml
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.g.resources
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.exe
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\Presentacion.pdb
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\DocenteXCursoWindow.g.cs
+D:\C#\Semana13\Lab17\Presentacion\obj\Debug\DocenteXCursoWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\EmpleadoWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\EmpleosWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\HistorialEmpleosWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\MainWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\App.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.exe
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Presentacion.exe.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Presentacion.exe
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Presentacion.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\EntityFramework.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Negocio.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Datos.dll.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\Negocio.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\EntityFramework.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\EmpleadoWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\EmpleosWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\HistorialEmpleosWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\MainWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.g.resources
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\Lab17\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Presentacion.exe.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Presentacion.exe
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Presentacion.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Datos.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\EntityFramework.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Negocio.dll
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Datos.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Datos.dll.config
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\Negocio.pdb
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\EntityFramework.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\EmpleadoWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\EmpleosWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\HistorialEmpleosWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\MainWindow.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\App.g.cs
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\EmpleadoWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\EmpleosWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\HistorialEmpleosWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\MainWindow.baml
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.g.resources
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.exe
+D:\UPC\CICLO V\Fundamentos de sistemas I c#\Semana 14\PC2_U202120751\PC2_202120751\Presentacion\obj\Debug\Presentacion.pdb

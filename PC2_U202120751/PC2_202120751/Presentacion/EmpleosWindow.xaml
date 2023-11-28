@@ -1,0 +1,34 @@
+﻿<Window x:Class="Presentacion.EmpleosWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="EmpleosWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nombre:" HorizontalAlignment="Left" Margin="38,79,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Fecha_Nacimiento_" Content="Salario minimo:" HorizontalAlignment="Left" Margin="42,112,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbNombre" HorizontalAlignment="Left" Margin="98,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <TextBox x:Name="tbSalarioMinimo" HorizontalAlignment="Left" Margin="154,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134"/>
+        <Button x:Name="btnRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="31,186,0,0" VerticalAlignment="Top" Width="114" Click="btnRegistrar_Click" Height="40"/>
+        <Button x:Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" Margin="32,238,0,0" VerticalAlignment="Top" Width="114" Click="btnModificar_Click" Height="41"/>
+        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="32,293,0,0" VerticalAlignment="Top" Width="114" Click="btnEliminar_Click" Height="44"/>
+        <Button x:Name="btnConsultarSalarioMinimo" Content="Consultar por el &#xA;Salario Minimo" HorizontalAlignment="Left" Margin="192,186,0,0" VerticalAlignment="Top" Width="114" Click="btnConsultarSalarioMinimo_Click" Height="40"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="193,297,0,0" VerticalAlignment="Top" Width="113" Click="btnSalir_Click" Height="40"/>
+        <DataGrid x:Name="dgEmpleos" Margin="339,19,96,102" RenderTransformOrigin="0.5,0.5" SelectionChanged="dgEmpleos_SelectionChanged" >
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.509"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="1.991"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+        </DataGrid>
+        <Label x:Name="Fecha_Nacimiento__Copiar" Content="Salario Maximo:" HorizontalAlignment="Left" Margin="42,142,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbSalarioMaximo" HorizontalAlignment="Left" Margin="154,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134"/>
+        <Button x:Name="btnConsultarSalarioMaximo" Content="Consultar por el &#xA;Salario Maximo" HorizontalAlignment="Left" Margin="193,238,0,0" VerticalAlignment="Top" Width="113" Click="btnConsultarSalarioMaximo_Click" Height="41"/>
+
+    </Grid>
+</Window>

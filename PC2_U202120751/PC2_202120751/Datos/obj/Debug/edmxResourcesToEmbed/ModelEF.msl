@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelEFStoreContainer" CdmEntityContainer="BDEFEntities">
+    <EntitySetMapping Name="Empleado">
+      <EntityTypeMapping TypeName="ModelEF.Empleado">
+        <MappingFragment StoreEntitySet="Empleado">
+          <ScalarProperty Name="Codigo_empleado" ColumnName="Codigo_empleado" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="FechaContratacion" ColumnName="FechaContratacion" />
+          <ScalarProperty Name="Salario" ColumnName="Salario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Empleos">
+      <EntityTypeMapping TypeName="ModelEF.Empleos">
+        <MappingFragment StoreEntitySet="Empleos">
+          <ScalarProperty Name="Codigo_empleo" ColumnName="Codigo_empleo" />
+          <ScalarProperty Name="NombreEmpleo" ColumnName="NombreEmpleo" />
+          <ScalarProperty Name="SalarioMinimo" ColumnName="SalarioMinimo" />
+          <ScalarProperty Name="SalarioMaximo" ColumnName="SalarioMaximo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HistorialEmpleos">
+      <EntityTypeMapping TypeName="ModelEF.HistorialEmpleos">
+        <MappingFragment StoreEntitySet="HistorialEmpleos">
+          <ScalarProperty Name="Codigo_empleo" ColumnName="Codigo_empleo" />
+          <ScalarProperty Name="Codigo_empleado" ColumnName="Codigo_empleado" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="FechaFIN" ColumnName="FechaFIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
