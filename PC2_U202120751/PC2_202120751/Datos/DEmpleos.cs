@@ -10,6 +10,22 @@ namespace Datos
     {
         public DEmpleos() { }
 
+        public bool Existe(String nombre)
+        {
+            //Empleos em = null;
+            using (var context = new BDEFEntities())
+            {
+                Empleos em = context.Empleos.FirstOrDefault(e => e.NombreEmpleo.Equals(nombre));
+                if(em == null)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+        }
         public String Registrar(Empleos Empleos)
         {
             try

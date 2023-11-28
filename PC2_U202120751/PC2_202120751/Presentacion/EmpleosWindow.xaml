@@ -27,7 +27,7 @@
             </DataGrid.RenderTransform>
         </DataGrid>
         <Label x:Name="Fecha_Nacimiento__Copiar" Content="Salario Maximo:" HorizontalAlignment="Left" Margin="42,142,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="tbSalarioMaximo" HorizontalAlignment="Left" Margin="154,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134"/>
+        <TextBox x:Name="tbSalarioMaximo" HorizontalAlignment="Left" Margin="154,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" PreviewTextInput="tbSalarioMaximo_PreviewTextInput"/>
         <Button x:Name="btnConsultarSalarioMaximo" Content="Consultar por el &#xA;Salario Maximo" HorizontalAlignment="Left" Margin="193,238,0,0" VerticalAlignment="Top" Width="113" Click="btnConsultarSalarioMaximo_Click" Height="41"/>
 
     </Grid>

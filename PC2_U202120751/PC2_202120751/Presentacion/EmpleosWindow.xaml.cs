@@ -117,5 +117,15 @@ namespace Presentacion
         {
             empleoSeleccionado = dgEmpleos.SelectedItem as Empleos;
         }
+
+        private void tbSalarioMaximo_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        {
+            if (!Char.IsDigit(e.Text,0))
+            {
+                e.Handled = true;
+            }
+            TimeSpan s = new TimeSpan(0,0,0);
+
+        }
     }
 }
